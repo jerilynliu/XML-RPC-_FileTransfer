@@ -8,8 +8,7 @@ The main functions of this program is as follows:
 
 A schematic diagram is shown as follows:
 
-<div align=center><img width="800" height="500" src="https://github.com/jer
- ilynliu/XML-RPC-_FileTransfer/blob/master/Images/Schematic%20Diagram.PNG"/></div>
+ ![img](https://raw.githubusercontent.com/jerilynliu/XML-RPC-_FileTransfer/master/Images/Schematic%20Diagram.PNG)
  
 https://github.com/jerilynliu/XML-RPC-_FileTransfer/blob/master/Images/Schematic%20Diagram.PNG
 
